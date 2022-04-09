@@ -1,0 +1,11 @@
+Solution challenge projesi için ekibim ile geliştiriğimiz projenin
+ Kullanıcın barajları listeleme şeklini seçmesini istediğimiz sayfanın kodları ve main dosyası 
+
+
+	Proje sırasında çok fazla sorun olduğu için githuba sürekli commit atamadım 
+
+	Proje bitti ve içersinde gereksiz bir kaç sayfa olmasına rağmen bu commiti atıyorum şu anlık istediğimiz şeyleri yapmasa bile 
+ve bir kaç sayfa istediğimiz gibi çalışmasa bile projemiz bitti ve SC katıldık ve youtube'a bi video çektik 
+(www.youtube.com/watch?v=YtUZK3nRS-4&t)
+
+Proje sırasında ekip arkdaşım Sıray tarıma (@siraytarim) çok teşekkür ederim ileride daha çok projede görüşmek dileği ile 
