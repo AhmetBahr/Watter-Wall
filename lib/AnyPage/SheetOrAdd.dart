@@ -155,3 +155,8 @@ Widget ListCard2(context) => Card(
 Future _urlAc(String link) async {
   await launch(link);
 }
+//Ahmet Bahar 
+//Github; @AhmetBahr
+
+//Sıray Tarım 
+//Github; @siraytarim

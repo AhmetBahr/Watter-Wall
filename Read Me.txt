@@ -8,4 +8,8 @@ Solution challenge projesi için ekibim ile geliştiriğimiz projenin
 ve bir kaç sayfa istediğimiz gibi çalışmasa bile projemiz bitti ve SC katıldık ve youtube'a bi video çektik 
 (www.youtube.com/watch?v=YtUZK3nRS-4&t)
 
-Proje sırasında ekip arkdaşım Sıray tarıma (@siraytarim) çok teşekkür ederim ileride daha çok projede görüşmek dileği ile 
+Güncelleme: Proje bir sonraki aşamaya geçti ve geliştirme sürecimiz tekrardan başladı
+
+Push 1;
+	Bottomnavigation bar sorunu çözüldü  
+	

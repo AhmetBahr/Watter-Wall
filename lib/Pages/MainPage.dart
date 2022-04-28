@@ -55,7 +55,8 @@ class _MainPageState extends State<MainPage> {
         },
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
-      bottomNavigationBar: BottomAppBar(
+
+      /*bottomNavigationBar: BottomAppBar(
         color: Colors.blueAccent.shade700,
         child: new Row(
           mainAxisSize: MainAxisSize.max,
@@ -94,6 +95,7 @@ class _MainPageState extends State<MainPage> {
           ],
         ),
       ),
+      */
     );
   }
 }

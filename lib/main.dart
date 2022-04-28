@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 import 'package:watter_wall/AnyPage/theme_provider.dart';
+import 'package:watter_wall/Materyal/BottomNavigotorBar.dart';
 import 'package:watter_wall/NewsPage/News1.dart';
 import 'package:watter_wall/NewsPage/News2.dart';
 import 'AnyPage/SheetOrAdd.dart';
@@ -31,7 +32,7 @@ class MyApp extends StatelessWidget {
 
           return MaterialApp(
               title: 'Water_Wall',
-              home: MainPage(),
+              home: MyBottomBar(),
               themeMode: themeProvider.themeMode,
               theme: Mythemes.lightTheme,
               darkTheme: Mythemes.darkTheme,
