@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:google_nav_bar/google_nav_bar.dart';
 
 import '../Pages/ListOrMaps.dart';
 import '../Pages/MainPage.dart';
+import '../Pages/NewProfile.dart';
 import '../Pages/ProfilPage.dart';
 
 class MyBottomBar extends StatefulWidget {
@@ -15,18 +15,21 @@ class _MyBottomBarState extends State<MyBottomBar> {
   final List<Widget> child = [
     ListOrMap(),
     MainPage(),
-    Profile(),
+    Newprofile(),
+    //Profile(),
   ];
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       body: child[index],
-      bottomNavigationBar: GNav(
-          onTap:( getonTappedBar){,
+      bottomNavigationBar: BottomNavigationBar(
+          onTap: getonTappedBar,
           currentIndex: index,
-          }
           items: [
-            GButton(icon: Icons.list_alt, text: ''),
+            BottomNavigationBarItem(
+              icon: new Icon(Icons.list_alt),
+              label: "home",
+            ),
             BottomNavigationBarItem(
               icon: new Icon(Icons.home),
               label: "",

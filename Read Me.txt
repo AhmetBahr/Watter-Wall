@@ -10,6 +10,5 @@ ve bir kaç sayfa istediğimiz gibi çalışmasa bile projemiz bitti ve SC katı
 
 Güncelleme: Proje bir sonraki aşamaya geçti ve geliştirme sürecimiz tekrardan başladı
 
-Push 1;
-	Bottomnavigation bar sorunu çözüldü  
-	
+Push 1; Bottomnavigationbar sorunu çözüldü  
+Push 2; BottomNB. hatası düzeltildi, Profil sayfası UI tasarımı yapıldı  
